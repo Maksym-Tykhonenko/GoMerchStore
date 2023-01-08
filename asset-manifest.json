@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/GoMerchStore/static/css/main.7acaea2f.css",
-    "main.js": "/GoMerchStore/static/js/main.07d3183d.js",
+    "main.js": "/GoMerchStore/static/js/main.0cdb7ca8.js",
     "index.html": "/GoMerchStore/index.html",
     "main.7acaea2f.css.map": "/GoMerchStore/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/GoMerchStore/static/js/main.07d3183d.js.map"
+    "main.0cdb7ca8.js.map": "/GoMerchStore/static/js/main.0cdb7ca8.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.0cdb7ca8.js"
   ]
 }
